@@ -18,12 +18,16 @@ A simple web application that generates beautiful color palettes for designers a
 ## Getting Started
 
 1. Clone the repository:
-  
+  ```bash
    git clone https://github.com/NikhilReddy7872/Color-Palette-Generator
-
+```
 2. Open the project folder.
 
 3. Open "index.html" in your browser.
+
+##  Contributing
+
+Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request.
 
 
 ## License
